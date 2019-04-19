@@ -1,0 +1,1 @@
+shows how object methods will be removed while going to worker and out from worker.
